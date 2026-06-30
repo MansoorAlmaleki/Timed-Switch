@@ -4,7 +4,7 @@
 **Components used:**
    *∙1X 100uF capacitor*
    *∙1X 1K resistor*
-   *∙1X 200ohm resistor* \n
+   *∙1X 200ohm resistor* 
    *∙1X 10K variable resistor*
    *∙1X Lm358(any op amp can be used)*
 
