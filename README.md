@@ -15,7 +15,7 @@
 
 This is a timed switch which relies on the RC circuit where the voltage is fed into
 the non-inverting input of an op amp.
-The inverting input os hooked up to a variable voltage divider ro set the trigger threshold
+The inverting input is hooked up to a variable voltage divider ro set the trigger threshold
 voltage, where a lower thershold voltage will lead to a faster trigger
 
 
