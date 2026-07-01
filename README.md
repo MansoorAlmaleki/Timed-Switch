@@ -16,8 +16,6 @@
 **Capacitor Voltage over time simulation**
 ![Alt text](VoltageOverTimePlot.png)
 
-![Alt text](Equation3.png)
-*where V is voltage, C is capacitance(Farads), Q is charge(coulombs)*
 
 
 This is a timed switch which relies on the RC circuit where the voltage is fed into
