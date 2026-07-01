@@ -13,6 +13,9 @@
 
 ![Alt text](BreadboardCircuit.png)
 
+**Capacitor Voltage over time simulation**
+![Alt text](VoltageOverTimePlot.png)
+
 
 This is a timed switch which relies on the RC circuit where the voltage is fed into
 the non-inverting input of an op amp.
