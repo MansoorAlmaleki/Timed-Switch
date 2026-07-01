@@ -16,6 +16,11 @@
 **Capacitor Voltage over time simulation**
 ![Alt text](VoltageOverTimePlot.png)
 
+**Formulas used in the simulation**
+![Alt text](Equation3.png)
+![Alt text](Equation4.png)
+*where Q is charge(coulomb), C is capacitance(Farad), V is Voltage(volt), t is time*
+
 
 This is a timed switch which relies on the RC circuit where the voltage is fed into
 the non-inverting input of an op amp.
