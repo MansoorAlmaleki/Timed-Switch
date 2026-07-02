@@ -47,7 +47,7 @@ for i in range(int(SimulationPeriod/SimulationTimeIncrement)):
 
 
 if(Surpassed):
-    plt.title(str(TimeUntilTrigger) + " seconds until triggered")
+    plt.title(str(TimeUntilTrigger) + " seconds to trigger")
 else:
     plt.title("Capacitor does not exceed threshold voltage")
 
